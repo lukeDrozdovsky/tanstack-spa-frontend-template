@@ -12,6 +12,7 @@ Optimized for seamless deployment to **Cloudflare Pages**.
 * **Data Fetching:** [TanStack Query v5](https://tanstack.com/query/latest) (React Query)
 * **API Mocking:** [MSW (Mock Service Worker)](https://mswjs.io/)
 * **Deployment Target:** [Cloudflare Pages](https://pages.cloudflare.com/) / Wrangler
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/) (Utility-first CSS framework)
 
 ---
 
